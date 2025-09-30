@@ -3,6 +3,6 @@
 int main(int argc, char const *argv[])
 {
     /* code */
-    printf("Hello, Simhadri!\n");
+    printf("Hello, pavan kumar\n");
     return 0;
 }
