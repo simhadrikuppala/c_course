@@ -22,6 +22,8 @@ int main()
     {
         tax=tax + 0.3*(income-1000000);
     } 
+  
+
     printf("The total tax to be paid is: %.2f",tax);
 return 0;
 }
